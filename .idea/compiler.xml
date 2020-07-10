@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="service-two" />
+        <module name="admin" />
         <module name="Spring-Admin" />
         <module name="service-one" />
-        <module name="admin" />
+        <module name="service-two" />
       </profile>
     </annotationProcessing>
   </component>
